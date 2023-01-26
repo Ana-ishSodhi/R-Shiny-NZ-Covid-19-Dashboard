@@ -1,0 +1,19 @@
+"Date","Case_Status","Ethnicity","Cases_Count"
+"2023-01-16","Active","Asian",2798
+"2023-01-16","Active","European or Other",11212
+"2023-01-16","Active","Middle Eastern, Latin American and African (MELAA)",301
+"2023-01-16","Active","Māori",3405
+"2023-01-16","Active","Pacific Peoples",1361
+"2023-01-16","Active","Unknown",86
+"2023-01-16","Deceased","Asian",94
+"2023-01-16","Deceased","European or Other",1980
+"2023-01-16","Deceased","Middle Eastern, Latin American and African (MELAA)",11
+"2023-01-16","Deceased","Māori",214
+"2023-01-16","Deceased","Pacific Peoples",133
+"2023-01-16","Deceased","Unknown",5
+"2023-01-16","Recovered","Asian",312191
+"2023-01-16","Recovered","European or Other",1280959
+"2023-01-16","Recovered","Middle Eastern, Latin American and African (MELAA)",37964
+"2023-01-16","Recovered","Māori",314316
+"2023-01-16","Recovered","Pacific Peoples",176409
+"2023-01-16","Recovered","Unknown",14494

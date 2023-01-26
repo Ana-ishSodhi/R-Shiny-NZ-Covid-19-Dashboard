@@ -1,0 +1,10 @@
+"Date","Case_Status","Gender","Cases_Count"
+"2023-01-16","Active","Female",11179
+"2023-01-16","Active","Male",7945
+"2023-01-16","Active","Unknown",39
+"2023-01-16","Deceased","Female",1148
+"2023-01-16","Deceased","Male",1286
+"2023-01-16","Deceased","Unknown",3
+"2023-01-16","Recovered","Female",1161150
+"2023-01-16","Recovered","Male",973115
+"2023-01-16","Recovered","Unknown",2068

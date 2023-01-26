@@ -1,0 +1,19 @@
+"Date","Hospitisation_Status","Age_Group","Hospitisation_Count"
+"2023-01-16","People in ICU","0 to 9",2833
+"2023-01-16","People in ICU","10 to 19",898
+"2023-01-16","People in ICU","20 to 29",1714
+"2023-01-16","People in ICU","30 to 39",1989
+"2023-01-16","People in ICU","40 to 49",1974
+"2023-01-16","People in ICU","50 to 59",2688
+"2023-01-16","People in ICU","60 to 69",3389
+"2023-01-16","People in ICU","70+",9942
+"2023-01-16","People in ICU","Unknown",0
+"2023-01-16","People in hospital","0 to 9",199805
+"2023-01-16","People in hospital","10 to 19",290586
+"2023-01-16","People in hospital","20 to 29",368189
+"2023-01-16","People in hospital","30 to 39",370068
+"2023-01-16","People in hospital","40 to 49",311608
+"2023-01-16","People in hospital","50 to 59",267726
+"2023-01-16","People in hospital","60 to 69",187394
+"2023-01-16","People in hospital","70+",162482
+"2023-01-16","People in hospital","Unknown",75
