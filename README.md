@@ -1,4 +1,6 @@
 Created R-Shiny-NZ-Covid-19-Dashboard Web Applications, that uses MoH Covid-19 Data and Stats NZ Data Portal.
+Link to the shiny app: <br>
+https://anish-nathu.shinyapps.io/NZ-Covid-19-Dashboard/
 
 Links to the data sourced: <br>
 MoH Covid 19 Data: https://github.com/minhealthnz/nz-covid-data <br>
