@@ -1,0 +1,16 @@
+"Date","Vaccine_Status","Age_Group","Death_Count"
+"2023-01-16","Fully vaccinated","0 to 59",98
+"2023-01-16","Fully vaccinated","60 to 69",74
+"2023-01-16","Fully vaccinated","70 to 79",117
+"2023-01-16","Fully vaccinated","80 to 89",154
+"2023-01-16","Fully vaccinated","90+",101
+"2023-01-16","Not fully vaccinated","0 to 59",78
+"2023-01-16","Not fully vaccinated","60 to 69",50
+"2023-01-16","Not fully vaccinated","70 to 79",95
+"2023-01-16","Not fully vaccinated","80 to 89",137
+"2023-01-16","Not fully vaccinated","90+",111
+"2023-01-16","Received booster","0 to 59",134
+"2023-01-16","Received booster","60 to 69",195
+"2023-01-16","Received booster","70 to 79",543
+"2023-01-16","Received booster","80 to 89",1023
+"2023-01-16","Received booster","90+",766
