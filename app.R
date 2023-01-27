@@ -212,7 +212,7 @@ body <- dashboardBody(
            box(
              title = "Map of New Zealand", status = "primary", solidHeader = TRUE,
              collapsible = FALSE, width = NULL,
-             leafletOutput("Map", width = "788px", height="750px")
+             leafletOutput("Map", width = "100%", height="750px")
            )
     )
   ),
